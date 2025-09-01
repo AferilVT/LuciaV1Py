@@ -1,0 +1,9 @@
+C:\Users\Aferil\Desktop\LuciaV1Py\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Aferil\Desktop\LuciaV1Py\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Aferil\Desktop\LuciaV1Py\obj\Debug\net6.0-windows\LuciaBotLauncher_MarkupCompile.cache
+C:\Users\Aferil\Desktop\LuciaV1Py\obj\Debug\net6.0-windows\LuciaBotLauncher.g.resources
+C:\Users\Aferil\Desktop\LuciaV1Py\obj\Debug\net6.0-windows\LuciaBotLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aferil\Desktop\LuciaV1Py\obj\Debug\net6.0-windows\LuciaBotLauncher.AssemblyInfoInputs.cache
+C:\Users\Aferil\Desktop\LuciaV1Py\obj\Debug\net6.0-windows\LuciaBotLauncher.AssemblyInfo.cs
+C:\Users\Aferil\Desktop\LuciaV1Py\obj\Debug\net6.0-windows\LuciaBotLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Aferil\Desktop\LuciaV1Py\obj\Debug\net6.0-windows\App.g.cs
