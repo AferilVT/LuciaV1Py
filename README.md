@@ -15,7 +15,7 @@ A modern, robust Discord bot with music, AI, speech-to-text, and more. Designed 
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
+git clone https://github.com/AferilVT/LuciaV1Py.git
 cd LuciaV1Py
 ```
 
@@ -131,4 +131,5 @@ Check current transcription status.
 - **Still stuck?** Add more logging or contact the maintainer.
 
 ---
+
 Happy hacking! 
